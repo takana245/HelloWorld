@@ -10,6 +10,6 @@ public class HelloWorldActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        // ２バイト文字コメント追加
+        // コメント変更
     }
 }
